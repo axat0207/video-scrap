@@ -1,0 +1,37 @@
+# Environment Files
+.env
+*.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data Files
+*.xlsx
+*.txt
+data/frames/
+
+# IDE Specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Project Specific
+dataVideo.mp4
