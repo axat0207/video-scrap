@@ -1,0 +1,10 @@
+flask
+pymongo
+opencv-python-headless
+Pillow
+pytesseract
+openai
+pandas
+python-dotenv
+python-multipart
+cloudinary
