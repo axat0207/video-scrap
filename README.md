@@ -42,11 +42,7 @@ OPENAI_API_KEY=your_openai_api_key
 4. Data stored in MongoDB
 5. Flask application renders web interface
 
-## Deployment
-Recommended platforms:
-- Render
-- Heroku
-- PythonAnywhere
+
 
 ## Technologies
 - Flask
@@ -55,6 +51,3 @@ Recommended platforms:
 - Cloudinary
 - Tesseract OCR
 - Tailwind CSS
-
-## License
-MIT License
