@@ -11,7 +11,7 @@ import logging
 import cloudinary
 import cloudinary.uploader
 from pymongo import MongoClient
-from gemini import GeminiClient  # Assuming you have a Gemini client library
+from gemini import GeminiClient  
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, 
