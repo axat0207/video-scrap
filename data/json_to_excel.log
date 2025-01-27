@@ -1,0 +1,54 @@
+2025-01-28 00:28:41,917 - INFO - Starting JSON to Excel and MongoDB processing...
+2025-01-28 00:28:41,918 - INFO - Loading JSON data from final-output.json
+2025-01-28 00:28:41,919 - INFO - Converting JSON data to DataFrame
+2025-01-28 00:28:41,920 - INFO - Removing duplicates based on the 'name' field
+2025-01-28 00:28:41,939 - INFO - Connecting to MongoDB: mongodb+srv://1234:1234@cluster0.wir5xrk.mongodb.net/final-scrap-with-profile
+2025-01-28 00:28:42,381 - INFO - Inserting unique records into MongoDB
+2025-01-28 00:28:43,360 - INFO - Inserted record: Frank Stirling
+2025-01-28 00:28:43,517 - INFO - Inserted record: Marek Stolarezyk
+2025-01-28 00:28:43,679 - INFO - Inserted record: Maarten Stoltz
+2025-01-28 00:28:43,839 - INFO - Inserted record: Thomas Strahl
+2025-01-28 00:28:43,985 - INFO - Inserted record: Daniel Strehlau
+2025-01-28 00:28:44,122 - INFO - Inserted record: Yelyzaveta Strii
+2025-01-28 00:28:44,280 - INFO - Inserted record: Pavel Strnad
+2025-01-28 00:28:44,439 - INFO - Inserted record: Anna Strunevskaya
+2025-01-28 00:28:44,568 - INFO - Inserted record: Tetiana Struts
+2025-01-28 00:28:44,721 - INFO - Inserted record: Nick Stuart
+2025-01-28 00:28:44,838 - INFO - Inserted record: Eldina Sulejmani
+2025-01-28 00:28:44,969 - INFO - Inserted record: Abby Sun
+2025-01-28 00:28:45,116 - INFO - Inserted record: Nehir Sunar
+2025-01-28 00:28:45,278 - INFO - Inserted record: Rita Svedkauskaité
+2025-01-28 00:28:45,456 - INFO - Inserted record: Mikael Svensson
+2025-01-28 00:28:45,570 - INFO - Inserted record: Katheryn Swann
+2025-01-28 00:28:45,727 - INFO - Inserted record: Julita Swiercz Wieczyriska
+2025-01-28 00:28:45,921 - INFO - Inserted record: Ramata-Toulaye Sy
+2025-01-28 00:28:46,054 - INFO - Inserted record: Jan Syruéek
+2025-01-28 00:28:46,200 - INFO - Inserted record: Georg Szalai
+2025-01-28 00:28:46,320 - INFO - Inserted record: David Szurmiej
+2025-01-28 00:28:46,452 - INFO - Inserted record: Marta Szymanowska
+2025-01-28 00:28:46,639 - INFO - Inserted record: Arash T. Riahi
+2025-01-28 00:28:46,800 - INFO - Inserted record: Alice Tabery
+2025-01-28 00:28:46,925 - INFO - Inserted record: Miguel Tafich
+2025-01-28 00:28:47,029 - INFO - Inserted record: Zoulikha Tahar
+2025-01-28 00:28:47,168 - INFO - Inserted record: Maram Taibah
+2025-01-28 00:28:47,292 - INFO - Inserted record: Tekla Taidelli
+2025-01-28 00:28:47,440 - INFO - Inserted record: Michael TAIT
+2025-01-28 00:28:47,568 - INFO - Inserted record: Piotr Tataj
+2025-01-28 00:28:47,720 - INFO - Inserted record: Yasmine Talli
+2025-01-28 00:28:47,877 - INFO - Inserted record: Rikke Tambo Andersen
+2025-01-28 00:28:48,028 - INFO - Inserted record: Erdener Tamer
+2025-01-28 00:28:48,202 - INFO - Inserted record: Eiko Tanaka
+2025-01-28 00:28:48,400 - INFO - Inserted record: Mathew Tang
+2025-01-28 00:28:48,560 - INFO - Inserted record: Bruno Tanguy
+2025-01-28 00:28:48,762 - INFO - Inserted record: Diane Tanios
+2025-01-28 00:28:48,919 - INFO - Inserted record: Almoutasim Tarabzouni
+2025-01-28 00:28:49,080 - INFO - Inserted record: Pawel Tarasiewicz
+2025-01-28 00:28:49,209 - INFO - Inserted record: Sophokles Tasioulis
+2025-01-28 00:28:49,366 - INFO - Inserted record: Irena Taskovski
+2025-01-28 00:28:49,548 - INFO - Inserted record: Jorg Taszman
+2025-01-28 00:28:49,689 - INFO - Inserted record: Tamara Tatishvili
+2025-01-28 00:28:49,867 - INFO - Inserted record: Amy Taubin
+2025-01-28 00:28:49,867 - INFO - Converting unique records to DataFrame
+2025-01-28 00:28:49,869 - INFO - Saving DataFrame to Excel file: final-output.xlsx
+2025-01-28 00:28:50,119 - INFO - JSON data successfully written to final-output.xlsx
+2025-01-28 00:28:50,119 - INFO - Closing MongoDB connection
