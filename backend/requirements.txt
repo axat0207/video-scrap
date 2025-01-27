@@ -8,3 +8,4 @@ pandas
 python-dotenv
 python-multipart
 cloudinary
+gemini
